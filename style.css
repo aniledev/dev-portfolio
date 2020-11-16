@@ -177,7 +177,7 @@ form {
 div#github p,
 div#linkedin p {
   margin-top: 46px;
-
+  text-align: center;
 }
 
 .center {
