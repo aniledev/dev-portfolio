@@ -147,6 +147,10 @@ div label {
   font-family: "Raleway", sans-serif;
 }
 
+.indented-paragraph {
+  padding: 22px;
+}
+
 button {
   display: table;
   margin: 0 auto;
