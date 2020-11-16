@@ -149,6 +149,8 @@ div label {
 
 .indented-paragraph {
   padding: 22px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 button {
@@ -170,6 +172,12 @@ button:hover {
 form {
   display: table;
   margin: 0 auto;
+}
+
+div#github p,
+div#linkedin p {
+  margin-top: 46px;
+
 }
 
 .center {
