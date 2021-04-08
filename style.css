@@ -122,6 +122,10 @@ img#resize {
   flex: 2;
 }
 
+.portfolio-image {
+  padding-top: 30px;
+}
+
 .centered {
   text-align: center;
 }
