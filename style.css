@@ -97,6 +97,7 @@ p {
 }
 
 img#resize {
+  /* height: 385px; */
   height: auto;
   /* width: 448px; */
   width: auto;
@@ -133,6 +134,7 @@ img#resize {
 
 .padded-image {
   margin: 5px;
+  object-fit: cover;
 }
 
 .padded-image:hover {
