@@ -71,6 +71,7 @@ section {
   padding-bottom: 10px;
   padding-right: 5px;
   padding-left: 5px;
+  text-align: justify;
 }
 
 h1 {
@@ -101,9 +102,9 @@ p {
   font-size: 20px;
 }
 
-div.item {
+/* div.item {
   width: 240px;
-}
+} */
 
 img#resize {
   /* height: 385px; */
