@@ -1,6 +1,10 @@
-/* Mobiel first CSS declarations */
-main {
+Mobile first CSS declarations
+/* main {
   margin: 20px;
+} */
+
+nav {
+  text-align: center;
 }
 
 .header {
@@ -16,6 +20,7 @@ nav ul {
   padding: 0;
   margin-top: 90px;
   margin-bottom: 0;
+  text-align: center;
 }
 
 nav ul li {
@@ -96,11 +101,16 @@ p {
   font-size: 20px;
 }
 
+div.item {
+  width: 240px;
+}
+
 img#resize {
   /* height: 385px; */
   height: auto;
   /* width: 448px; */
   width: auto;
+  margin: auto;
 }
 
 .portfolio p {
