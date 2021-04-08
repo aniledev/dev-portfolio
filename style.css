@@ -97,8 +97,9 @@ p {
 }
 
 img#resize {
-  height: 385px;
+  height: auto;
   /* width: 448px; */
+  width: auto;
 }
 
 .portfolio p {
