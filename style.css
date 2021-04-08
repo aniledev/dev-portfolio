@@ -133,6 +133,12 @@ img#resize {
   flex-direction: column;
 }
 
+div.portrait {
+  width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .item {
   flex: 1;
 }
