@@ -98,7 +98,7 @@ p {
 
 img#resize {
   height: 385px;
-  width: 448px;
+  /* width: 448px; */
 }
 
 .portfolio p {
