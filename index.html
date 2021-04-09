@@ -283,10 +283,11 @@
             <div>
               <label for="_replyto"> From: </label>
               <input
-                type="text"
+                type="email"
                 name="_replyto"
                 id="_replyto"
                 placeholder="youremail@gmail.com"
+                required
               />
             </div>
             <div>
@@ -295,6 +296,8 @@
                 name="message"
                 id="message"
                 placeholder="OMG! Your site is so awesome!"
+                required
+                max="2000"
               ></textarea>
             </div>
             <!-- your other form fields go here -->
